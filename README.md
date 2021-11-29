@@ -2,7 +2,7 @@
 Thought I would take a crack at the Instagram UI to practice my SwiftUI skills.
 
 ## Screenshot
-![Screenshot of app running](https://github.com/ckmontesano/Instagram-Clone/blob/main/Screen%20Shot%202021-11-22%20at%207.40.06%20AM.png?raw=true)
+![Screenshot of app running](https://github.com/ckmontesano/Instagram-Clone/blob/main/screenshot.png)
 
 ## Sources
 - The **Instagram** logo came from Instagram (obviously)
